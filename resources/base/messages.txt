@@ -1,0 +1,23 @@
+# MIDP Localization Support Default Messages Bundle
+# Here you can put your keys and values
+# To add another language, select "Add New Locale" from pop-up menu
+# on this file ...
+cmd.salir=Salir
+cmd.volver=Volver
+cmd.aceptar=Aceptar
+cmd.registrar=Registrar
+cmd.reimprimir=Reimprimir
+cmd.si=Si
+cmd.no=No
+
+principal.titulo=Inicio de sesion
+
+form.logueo.titulo=Entrar al Sistema
+form.logueo.user=Usuario
+form.logueo.passwd=Password
+
+impresion.logoimagen=/logoprincipal.bmp
+impresion.imagenlinea=/lineadivided.bmp
+impresion.mensaje.sinvoltage=No existe la suficiente energia para imprimir.\n Datos Almacenados para volver a imprimir. \n Se apagara el Dispositivo!!!
+
+
